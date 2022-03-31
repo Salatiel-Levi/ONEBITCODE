@@ -4,6 +4,21 @@
 </h1>
 <p align="center">🚀Transformamos pessoas em programadores sem limites que dominam o código e são desejados pelo mercado</p>
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧Em construção...  🚧
 </h4>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+- [HTML5](https://www.w3c.br/)
+- [CSS3](w3c.br)
+- [Bulma] (https://bulma.io/)
+- [Sass] (https://sass-lang.com/)
+- [Bootstrap] (https://getbootstrap.com/)
+- [JavaScript](https://www.javascript.com/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+
 <p>Repostitory destinated to "ONEBITCODE PROFISSIONAL TRANING: JavaScript FullStack Programmer"</p>
