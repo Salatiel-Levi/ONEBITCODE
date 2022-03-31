@@ -12,9 +12,9 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://www.w3c.br/)
 - [CSS3](w3c.br)
-- [Bulma] (https://bulma.io/)
-- [Sass] (https://sass-lang.com/)
-- [Bootstrap] (https://getbootstrap.com/)
+- [Bulma](https://bulma.io/)
+- [Sass](https://sass-lang.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
