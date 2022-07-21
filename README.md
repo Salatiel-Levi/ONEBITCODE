@@ -22,3 +22,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <p>Repostitory destinated to "ONEBITCODE PROFISSIONAL TRANING: JavaScript FullStack Programmer"</p>
+<p>PT-BR: Aqui irei exibir minha evolução duranteo  treinamento ONEBITCODE
+EN-US: Here I will show my evolution during the ONEBITCODE training</p>
